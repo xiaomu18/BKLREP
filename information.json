@@ -1,1 +1,1 @@
-{"allow_startup": 1, "version_control": {"latest_version": 1.54, "minimum_allowable": 1.54}, "boot_code": "http"}
+{"allow_startup": 1, "boot_code": "http://121.40.172.136/boot_code"}
